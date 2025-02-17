@@ -3,7 +3,7 @@
     float: right;
 }
 
-#slogan a {
+.slogan {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #fdc26c;
     text-align: center;
