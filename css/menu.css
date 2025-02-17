@@ -52,3 +52,7 @@ div#menuhorizontal .dropdown-content a:hover {
 div#menuhorizontal .dropdown:hover .dropdown-content {
     display: block;
 }
+
+div#menuhorizontal img {
+    float: right;
+}
