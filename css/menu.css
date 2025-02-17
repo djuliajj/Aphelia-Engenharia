@@ -17,6 +17,7 @@ div#menuhorizontal li a, .dropbtn {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div#menuhorizontal li a:hover, .dropdown:hover .dropbtn {
