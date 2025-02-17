@@ -21,7 +21,7 @@ div#menuhorizontal li a, .dropbtn {
 }
 
 div#menuhorizontal li a:hover, .dropdown:hover .dropbtn {
-    background-color: #ffffff;
+    background-color: #ffedd2;
 }
 
 div#menuhorizontal li.dropdown {
