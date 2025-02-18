@@ -1,3 +1,11 @@
+div#menuhorizontal {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
 div#menuhorizontal ul {
     list-style-type: none;
     margin: 0;
