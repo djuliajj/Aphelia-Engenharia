@@ -12,14 +12,6 @@
     display:none;
 }
 
-.numbertext {
-    color:rgb(255, 255, 255);
-    font-size: 12px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
-}
-
 .dot {
     cursor: pointer;
     height: 15px;
