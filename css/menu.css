@@ -57,13 +57,3 @@ div#menuhorizontal .dropdown:hover .dropdown-content {
 div#menuhorizontal img {
     float: left;
 }
-
-.slogan {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #e38f1a;
-    text-align: center;
-    background-color: #ffedd2;
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
