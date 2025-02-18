@@ -63,4 +63,7 @@ div#menuhorizontal img {
     color: #fdc26c;
     text-align: center;
     background-color: #ffedd2;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
