@@ -5,6 +5,7 @@
     height: 600px;
     position: relative;
     margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .myslides {
@@ -61,4 +62,9 @@
 .fade {
     animation-name: fade;
     animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
 }
