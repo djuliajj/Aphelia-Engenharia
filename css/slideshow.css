@@ -17,14 +17,14 @@
     height: 15px;
     width: 15px;
     margin: 0 2px;
-    background-color: #ffe2b9;
+    background-color: #ffffff;
     border-radius: 50%;
     display: inline-block;
     transition: background-color 0.6s ease;
 }
 
 .active {
-    background-color: #ffb349;
+    background-color: #ffffff;
 }
 
 .fade {
