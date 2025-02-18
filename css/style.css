@@ -16,7 +16,6 @@
 .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 5px;
-    font-size: 35px;
     text-align: left;
 }
 
@@ -25,4 +24,12 @@
     text-align: left;
     color: #3d3d3d;
     font-size: 25px;
+}
+
+#ppitext {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: #3d3d3d;
+    font-size: 15px;
+    font-style: italic;
 }
