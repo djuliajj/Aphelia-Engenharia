@@ -20,15 +20,15 @@
     text-align: left;
 }
 
-#pitext {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+#pitext > p {
+    font-family: 'Garamond', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
     color: #3d3d3d;
     font-size: 35px;
 }
 
-#ppitext {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+#ppitext > p {
+    font-family: 'Garamond', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
     color: #3d3d3d;
     font-size: 20px;
@@ -45,11 +45,28 @@
 }
 
 .slogan {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Garamond', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #e38f1a;
     text-align: center;
     background-color: #ffffff;
     margin: 0;
     padding: 0;
     border: 0;
+}
+
+h2 {
+    font-family: 'Garamond', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #e38f1a;
+    text-align: left;
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+p {
+    font-family: 'Garamond', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: #3d3d3d;
+    font-size: 25px;
 }
