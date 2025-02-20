@@ -19,7 +19,7 @@ div#menuhorizontal li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: medium;
+    font-size: large;
 }
 
 div#menuhorizontal li a:hover, .dropdown:hover .dropbtn {
