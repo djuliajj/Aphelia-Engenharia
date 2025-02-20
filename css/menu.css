@@ -9,7 +9,7 @@ div#menuhorizontal ul {
 }
 
 div#menuhorizontal li {
-    float: center;
+    float: inline-end;
 }
 
 div#menuhorizontal li a, .dropbtn {
