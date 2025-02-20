@@ -3,6 +3,10 @@
     float: right;
 }
 
+aside.grid-container {
+    background-image: url("Images/capacete_engenheiro.jpg");
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
