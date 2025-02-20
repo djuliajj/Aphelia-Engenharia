@@ -3,8 +3,9 @@
     float: right;
 }
 
-aside.grid-container {
-    background-image: url("Images/capacete_engenheiro.jpg");
+.grid-container {
+    background-image: url(Imagens/capacete_engenheiro.jpg);
+    opacity: 70%;
 }
 
 .grid-container {
